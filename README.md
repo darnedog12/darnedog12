@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hola, Mi nombre es Daniela Arnedo✨ Soy desarrolladora de software de Colombia :col:
+
+Puedes encontrarme en [! [Twitter] [1.2]] [1], o en [! [LinkedIn] [3.2]] [3].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://img.icons8.com/fluent-systems-filled/24/000000/linkedin.png
+
+[1]: https://twitter.com/Danielaarnedog
+[2]: https://www.linkedin.com/in/daniela-arnedo
