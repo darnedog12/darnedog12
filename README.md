@@ -19,7 +19,7 @@ Hola, Mi nombre es Daniela Arnedo✨ Soy desarrolladora de software de Colombia 
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+Puedes encontrarme en [![Twitter][1.2]][1], o en [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
